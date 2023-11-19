@@ -15,6 +15,7 @@ export default {
   },
   data(){
     return {
+      a:20,
       age:30
     }
   }
