@@ -15,7 +15,6 @@ export default {
   },
   data(){
     return {
-      a:3,
       age:30
     }
   }
